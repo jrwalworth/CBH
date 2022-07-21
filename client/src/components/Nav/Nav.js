@@ -13,7 +13,7 @@ import Tooltip from '@mui/material/Tooltip';
 import MenuItem from '@mui/material/MenuItem';
 import EmojiNatureIcon from '@mui/icons-material/EmojiNature';
 
-const pages = ['Products', 'Pricing', 'Blog'];
+const pages = ['Chocolate', 'Butters', 'Honey'];
 const settings = ['Profile', 'Account', 'Dashboard', 'Logout'];
 
 const ResponsiveAppBar = () => {
